@@ -1,4 +1,4 @@
-# Hola 👋🏽
+# Hola, soy Carlos 👋🏽
 
 **📲 Soy desarrollador de aplicaciones móviles nativas para sistemas operativos iOS y Android 👾🍎**
 <img width="820" alt="github-cover" src="https://user-images.githubusercontent.com/109391213/184695596-9d88e43c-85fa-4bfb-8197-646548fb4590.png">
