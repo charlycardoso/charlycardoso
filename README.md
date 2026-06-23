@@ -1,12 +1,12 @@
 # Hey, I'm Charly Cardoso 👋🏽
 
-**iOS Engineer · Full-Stack Mobile Developer · Indie Builder**
+I build software products — from idea to launch.
 
-I build mobile apps — native and cross-platform — with a focus on clean architecture, 
-offline-first experiences, and solving problems that people around me actually have.
+Not just as a developer, but as someone who thinks about the problem first,
+the architecture second, and the code third.
 
-6+ years shipping iOS. Also fluent in Flutter, Kotlin, NestJS, and enough backend 
-to own the full stack of my own products.
+6+ years building digital products. Based in Mexico. Focused on solving real problems
+for real people — starting with the ones around me.
 
 ---
 
@@ -15,7 +15,7 @@ to own the full stack of my own products.
 **Mobile:** Swift · SwiftUI · UIKit · Flutter · Kotlin  
 **Backend:** NestJS · Prisma · PostgreSQL · REST APIs  
 **Frontend:** Angular · TypeScript  
-**Infra & Tools:** Supabase · Vercel · CloudKit · SQLite/Drift · Figma  
+**Infra & Tools:** Supabase · Vercel · CloudKit · SQLite/Drift · Figma
 
 ---
 
@@ -26,14 +26,14 @@ to own the full stack of my own products.
 | **BUY** | iOS & Android | POS for micro-businesses in Mexico — offline-first, no internet required |
 | **Cotiza** | iOS & Android | Job estimating tool for tradespeople (herreros, albañiles, carpinteros) |
 | **MiCocina** | iOS & Android | Meal planner with nutrition tracking |
-| **EFATA** | Web | E-commerce platform for gift shop · [efata.com.mx](https://efata.com.mx) |
+| **EFATA** | Web | E-commerce for a family gift shop · [efata.com.mx](https://efata.com.mx) |
 
 ---
 
 ## 🧠 How I think
 
-- Architecture first, then tools — I want to understand the *why* before choosing the *what*
-- Build before delegate — I won't call something "experience" unless I built it myself
+- Problem first, architecture second, code third
+- I won't call something "experience" unless I built it myself
 - Products rooted in real problems are more defensible than ideas from abstraction
 - Doing over talking
 
@@ -42,18 +42,22 @@ to own the full stack of my own products.
 ## 📬 Let's talk
 
 **Web:** [charlycardoso.com](https://charlycardoso.com)  
-**Email:** carlos@charlycardoso.com
+**Email:** [carlos@charlycardoso.com](mailto:carlos@charlycardoso.com)
 
 ---
 
-*Also available in* [*Español*](#español) *below.*
+*También disponible en* [*Español*](#español) *abajo.*
 
 ---
 
 ## Español
 
-Soy desarrollador iOS con más de 6 años de experiencia, basado en Irapuato, México.
+Construyo productos digitales — de la idea al lanzamiento.
 
-Construyo apps móviles nativas y multiplataforma, con foco en arquitectura limpia y experiencias offline-first. Paralelamente desarrollo mis propios productos digitales orientados a resolver problemas reales del mercado mexicano.
+No solo como desarrollador, sino como alguien que piensa primero en el problema,
+luego en la arquitectura, y después en el código.
 
-Disponible para proyectos freelance de iOS, Android y desarrollo móvil en general.
+Más de 6 años construyendo productos digitales. Basado en México.
+Enfocado en resolver problemas reales para personas reales — empezando por las que me rodean.
+
+Disponible para proyectos freelance de desarrollo móvil y web.
