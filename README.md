@@ -25,7 +25,7 @@ to own the full stack of my own products.
 |-----|----------|-------------|
 | **BUY** | iOS & Android | POS for micro-businesses in Mexico — offline-first, no internet required |
 | **Cotiza** | iOS & Android | Job estimating tool for tradespeople (herreros, albañiles, carpinteros) |
-| **MiCocina** | iOS | Meal planner with nutrition tracking |
+| **MiCocina** | iOS & Android | Meal planner with nutrition tracking |
 | **EFATA** | Web | E-commerce platform for gift shop · [efata.com.mx](https://efata.com.mx) |
 
 ---
